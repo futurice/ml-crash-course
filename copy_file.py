@@ -12,7 +12,7 @@ else:
 file_path = '/home/ec2-user/ml-crash-course/{}'.format(file)
 
 for i in range(1, 3):
-    copy_path = '/home/user{}'.format(i)
+    copy_path = '/home/user{}/{}'.format(i, file)
     try:
         os.remove(copy_path)
     except OSError:
