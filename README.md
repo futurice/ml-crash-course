@@ -16,7 +16,7 @@
 
 ### Log in to jupyterhub
 1. You must be on either **Futurice-Helsinki** or **Futurice-Guest-Helsinki** WiFi. 
-1. Go to *http://ec2-18-195-240-216.eu-central-1.compute.amazonaws.com:8000*
+1. Go to *http://ec2-18-195-240-216.eu-central-1.compute.amazonaws.com:8000* or *http://18.195.240.216:8000/*
 1. There are 20 users all with the same password. 
     * username: user1, user2, user3, etc. 
     * password: jupyter*
