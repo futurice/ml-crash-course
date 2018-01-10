@@ -28,6 +28,7 @@ for i in range(1, number_of_users + 1):
 
     copyfile(file_path, copy_path)
     print('Copied {} to {}'.format(file_path, copy_path))
+    os.system('chown user{i}:user{i} -R /home/user{i}'.format(i=i))
 
 
 
