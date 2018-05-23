@@ -1,5 +1,9 @@
 # ml-crash-course
 
+## Running
+
+Run these exercises using MyBinder: [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/futurice/ml-crash-course/master)
+
 
 ## Steps to update notebook in Jupyterhub for all users
 
